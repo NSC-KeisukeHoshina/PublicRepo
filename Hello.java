@@ -21,7 +21,7 @@ public class Hello {
         System.out.println(origin == diffOrigin2);
         System.out.println(origin.equals(diffOrigin2));
 
+		This
         // new RuntimeException("イジョジョ");
-		Dummy
     }
 }
